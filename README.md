@@ -72,9 +72,4 @@ Testing convention: test files live next to the component they test (not in a ce
 **Database**: MySQL
 
 ## Setup (high-level)
-- Install Node.js and MySQL Server.
-- Run database/schema.sql then database/seed.sql to create and seed the database.
-- Configure .env in the backend folder with MySQL credentials.
-- npm install and npm run dev in the backend folder.
-- npm install and npm run dev in the frontend folder.
-- Optionally run npm run test (or npm run test -- --run for a single pass) in the frontend folder.
+See README_instruction.md
